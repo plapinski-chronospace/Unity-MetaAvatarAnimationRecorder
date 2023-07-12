@@ -25,8 +25,11 @@
 Adjust the following settings according to your preferences and project requirements:
 
 **Record LOD**: Choose between Full/High/Medium/Low to select the animation resolution. Full records all three LODs.
+
 **MAX_PACKETS_PER_FRAME**: Increasing this value enables more precise animation, although the default settings should be perfect for smooth playback.
+
 **IntervalToSendData**: Increasing this value reduces the amount of stored information but may result in less fluid animation if motion smoothing is not enabled.
+
 **PlaybackTimeDelay**: Increase this value to slow down the animation playback.
 
 ## Conclusion
